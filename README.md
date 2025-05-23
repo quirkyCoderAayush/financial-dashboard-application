@@ -1,6 +1,3 @@
-# financial-dashboard-application
-A user-friendly financial dashboard application for managing transactions, budgets, and spending categories. Built with Spring Boot, React, and MySQL, secured using JWT authentication.
-
 # Financial Dashboard
 
 **A comprehensive financial dashboard application designed to help users manage their finances efficiently. This app provides functionalities for tracking transactions, managing budgets, categorizing expenses, and much more.**
